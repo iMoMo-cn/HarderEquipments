@@ -1,0 +1,16 @@
+[
+{
+  "modid": "heq",
+  "name": "HarderEquipments",
+  "description": "The durability of equipments which made of ingot is too little. Why not use block to make harder equipments!",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MoMo"],
+  "credits": "Thanks for TaoismDeepLake and his IDF.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

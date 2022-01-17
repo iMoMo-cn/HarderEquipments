@@ -1,0 +1,77 @@
+itemGroup.harder_tool=Harder tool
+itemGroup.harder_combat=Harder combat
+
+item.emerald_sword.name=emerald sword
+item.emerald_axe.name=emerald axe
+item.emerald_pickaxe.name=emerald pickaxe
+item.emerald_shovel.name=emerald shovel
+item.emerald_hoe.name=emerald hoe
+
+item.iron_block_sword.name=iron block sword
+item.iron_block_axe.name=iron block axe
+item.iron_block_pickaxe.name=iron block pickaxe
+item.iron_block_shovel.name=iron block shovel
+item.iron_block_hoe.name=iron block hoe
+
+item.diamond_block_sword.name=diamond block sword
+item.diamond_block_axe.name=diamond block axe
+item.diamond_block_pickaxe.name=diamond block pickaxe
+item.diamond_block_shovel.name=diamond block shovel
+item.diamond_block_hoe.name=diamond block hoe
+
+item.gold_block_sword.name=gold block sword
+item.gold_block_axe.name=gold block axe
+item.gold_block_pickaxe.name=gold block pickaxe
+item.gold_block_shovel.name=gold block shovel
+item.gold_block_hoe.name=gold block hoe
+
+item.emerald_block_sword.name=emerald block sword
+item.emerald_block_axe.name=emerald block axe
+item.emerald_block_pickaxe.name=emerald block pickaxe
+item.emerald_block_shovel.name=emerald block shovel
+item.emerald_block_hoe.name=emerald block hoe
+
+item.emerald_helmet.name=emerald helmet
+item.emerald_chestplate.name=emerald chestplate
+item.emerald_leggings.name=emerald leggings
+item.emerald_boots.name=emerald boots
+
+item.iron_block_helmet.name=iron block helmet
+item.iron_block_chestplate.name=iron block chestplate
+item.iron_block_leggings.name=iron block leggings
+item.iron_block_boots.name=iron block boots
+
+item.gold_block_helmet.name=gold block helmet
+item.gold_block_chestplate.name=gold block chestplate
+item.gold_block_leggings.name=gold block leggings
+item.gold_block_boots.name=gold block boots
+
+item.diamond_block_helmet.name=diamond block helmet
+item.diamond_block_chestplate.name=diamond block chestplate
+item.diamond_block_leggings.name=diamond block leggings
+item.diamond_block_boots.name=diamond block boots
+
+item.emerald_block_helmet.name=emerald block helmet
+item.emerald_block_chestplate.name=emerald block chestplate
+item.emerald_block_leggings.name=emerald block leggings
+item.emerald_block_boots.name=emerald block boots
+
+item.emerald_horse_armor.name=emerald horse armor
+item.leather_horse_armor.name=leather horse armor
+
+item.iron_shield.name=iron shield
+item.gold_shield.name=gold shield
+item.emerald_shield.name=emerald shield
+item.diamond_shield.name=diamond shield
+
+item.metal_apple_0.name=iron apple
+item.metal_apple_1.name=iron apple
+item.metal_apple_2.name=emerald apple
+item.metal_apple_3.name=emerald apple
+item.metal_apple_4.name=diamond apple
+item.metal_apple_5.name=diamond apple
+
+item.iron_bow.name=iron bow
+item.gold_bow.name=gold bow
+item.emerald_bow.name=emerald bow
+item.diamond_bow.name=diamond bow
