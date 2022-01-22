@@ -88,7 +88,7 @@ public class ModItems {
 
 	//bow
 	public static final Item IRON_BOW = new ItemBowBase("iron_bow", 752).setCreativeTab(ModCreativeTab.HARDER_COMBAT);
-	public static final Item DIAMOND_BOW = new ItemBowBase("diamond_bow", 1569).setCreativeTab(ModCreativeTab.HARDER_COMBAT);
+	public static final Item DIAMOND_BOW = new ItemFastBow("diamond_bow", 1569, 6.67F).setCreativeTab(ModCreativeTab.HARDER_COMBAT);
 	public static final Item GOLD_BOW = new ItemFastBow("gold_bow", 576, 10.0F).setCreativeTab(ModCreativeTab.HARDER_COMBAT);
 	public static final Item EMERALD_BOW = new ItemFastBow("emerald_bow", 864, 5.0F).setCreativeTab(ModCreativeTab.HARDER_COMBAT);
 
