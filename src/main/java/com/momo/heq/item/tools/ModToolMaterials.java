@@ -26,7 +26,7 @@ public class ModToolMaterials{
                     .setRepairItem(new ItemStack(Items.EMERALD));
 
     public static final Item.ToolMaterial IRON_BLOCK =
-            EnumHelper.addToolMaterial("iron_block", 2, 2250, 60.F, 2.0F, 14)
+            EnumHelper.addToolMaterial("iron_block", 2, 2250, 6.0F, 2.0F, 14)
                     .setRepairItem(new ItemStack(Item.getItemFromBlock(Blocks.IRON_BLOCK)));
 
     public static final Item.ToolMaterial DIAMOND_BLOCK =
