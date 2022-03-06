@@ -23,7 +23,7 @@ public class ModArmorMaterials {
     GOLD("gold", 7, new int[]{1, 3, 5, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, 0.0F),
     DIAMOND("diamond", 33, new int[]{3, 6, 8, 3}, 10, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 2.0F);
 
-    EnumHelper.addArmorMaterial(String name, String textureName, int durability, int[] reductionAmounts, int enchantability, SoundEvent soundOnEquip, float toughness).setRepairItem(ItemStack)
+    EnumHelper.addArmorMaterial(name, textureName, durability, reductionAmounts[], enchantability, soundOnEquip, toughness).setRepairItem(ItemStack)
 	*/
 
     public static final ItemArmor.ArmorMaterial EMERALD =
